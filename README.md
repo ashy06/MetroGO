@@ -1,4 +1,4 @@
-# Metro Ticket Booking System
+# MetroGO
 
 ## Project Overview
 
@@ -48,7 +48,3 @@ Contributions are welcome! Please refer to the `apache-tomcat-9.0.62/CONTRIBUTIN
 ## License
 
 This project is licensed under the Apache License 2.0 - see the provided license text for details.  Note that certain components within Apache Tomcat may have different licensing terms (see included licenses for details).
-
-## Contact Information
-
-[Your Contact Information Here] (Optional)
